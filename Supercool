@@ -1,0 +1,10 @@
+local v1 = {}
+
+
+function v1.print(subj)
+	 local printed = tostring(subj) 
+	 print(printed)
+end
+
+ 
+return v1
